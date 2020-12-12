@@ -1,3 +1,4 @@
+package pckRectangulo;
 
 public class Rectangulo {
 
